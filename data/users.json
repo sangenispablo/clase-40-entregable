@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"email": "pablo@sangenis.ar",
+		"username": "pablo",
+		"password": "12345"
+	},
+	{
+		"id": 2,
+		"email": "pablo@sangenis.ar",
+		"username": "pablo",
+		"password": "12345"
+	},
+	{
+		"email": "yessyblazquez@sangenis.ar",
+		"username": "yessy",
+		"password": "12345",
+		"id": 3
+	}
+]
